@@ -1,0 +1,127 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://wallpaperaccess.com/full/1372693.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+#logo{
+    width: 80px;
+    display: inline;
+    position: relative;
+    left: 5px;
+    
+}
+
+#logotext{
+    display: inline;
+    margin: 0px;
+    position: relative;
+    left: 5px;
+    bottom: 25px;
+    color: rgb(160, 19, 226);
+    
+    
+}
+
+.nabar{
+    background-color: rgba(195, 0, 255, 0.247);
+    border-radius: 10px;
+    
+    
+    
+    
+
+}
+.nabar ul li {
+    display: inline;
+    padding-left: 30px;
+    position: relative;
+    left: 650px;
+    top: -30px;
+    font-size: 20px;
+    
+}
+
+.nabar ul li a{
+    text-decoration: none;
+    color: rgb(174, 0, 255);
+    
+    
+    
+}
+.nabar ul{
+    display: inline;
+    
+}
+
+#aboutme{ 
+    color: blueviolet;
+    text-align: cente;
+    border: 3px solid blueviolet;
+    padding: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+
+}
+
+.aboutmeH1{
+    color: blueviolet;
+    text-align: center;
+    padding: 0px;
+    text-shadow:
+      0 0 7px rgb(255, 255, 255),
+      0 0 10px rgb(200, 189, 211),
+      0 0 21px blueviolet,
+      0 0 42px rgb(234, 0, 255),
+      0 0 82px blueviolet,
+      0 0 92px blueviolet,
+      0 0 102px blueviolet,
+      0 0 151px blueviolet;
+    font-size: 30px;
+    
+}
+#audio{
+    border:3px solid blueviolet;
+    margin-left: 609px;
+    margin-top: 30px;
+    
+
+}
+
+#quote{
+    color: blueviolet;
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+    font-size: 40px;
+    position: relative;
+    top: 50px;
+    left: -20px;
+}
+
+#icon{
+    width: 40px;
+    float: right;
+    padding: 20px 30px;
+   
+}
+#video{
+
+    border: 3px solid blueviolet;
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 350px;
+    box-shadow: 
+    0 0 7px rgb(255, 255, 255),
+    0 0 10px rgb(200, 189, 211),
+    0 0 21px blueviolet,
+    0 0 42px rgb(234, 0, 255),
+    0 0 82px blueviolet,
+    0 0 92px blueviolet,
+    0 0 102px blueviolet,
+    0 0 151px blueviolet;;
+    
+}
